@@ -1,0 +1,7 @@
+import{b as o,e as c,f as r,h as t,w as i,F as a,T as s,o as p,i as d,M as m}from"./entry.35436223.js";const h=o({__name:"discord",setup(l){return c(()=>{window.location.href="https://discord.gg/kckKVXX3ck"}),(k,u)=>{const e=m,n=s;return p(),r(a,null,[t(e,{charset:"utf-8"}),t(n,null,{default:i(()=>[d("Discord Server")]),_:1}),t(e,{content:"TW",name:"distribution"}),t(e,{content:"夏目",name:"author"}),t(e,{property:"title",content:"加入虹嗨科技集團成為o5"}),t(e,{name:"description",content:`加入虹嗨科技集團成為o5一起推廣可愛又氣質的白白虹
+來跟我說一遍 : (」・ω・)」白白虹(／・ω・)／一四八
+DC邀請連結：https://discord.com/invite/kckKVXX3ck`},null,8,["content"]),t(e,{name:"twitter:title",content:"加入虹嗨科技集團成為o5"}),t(e,{name:"twitter:description",content:`歡迎加入我們一起推廣可愛又氣質的白白虹
+來跟我說一遍 : (」・ω・)」白白虹(／・ω・)／一四八
+DC邀請連結：https://discord.com/invite/kckKVXX3ck`},null,8,["content"]),t(e,{name:"twitter:image",content:"https://www.hacukoxfans.com/image/you-need-see-hacuko.jpg"}),t(e,{name:"twitter:card",content:"summary_large_image"}),t(e,{name:"twitter:site",content:"@discord"}),t(e,{property:"og:site_name",content:"白白虹非官方Discord伺服器"}),t(e,{property:"og:title",content:"加入虹嗨科技集團成為o5"}),t(e,{property:"og:description",content:`歡迎加入我們一起推廣可愛又氣質的白白虹
+來跟我說一遍 : (」・ω・)」白白虹(／・ω・)／一四八
+DC邀請連結：https://discord.com/invite/kckKVXX3ck`},null,8,["content"]),t(e,{property:"og:url",content:"https://discord.com/invite/kckKVXX3ck"}),t(e,{property:"og:type",content:"site"})],64)}}});export{h as default};
